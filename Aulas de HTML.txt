@@ -58,4 +58,7 @@
  Capítulo 19 Aula 01- Download das imagens do capítulo - (ex022)
  Capítulo 19 Aula 02 – Colocando uma imagem de fundo no seu site - (ex022)
  Capítulo 19 Aula 03 – Imagens que se repetem no fundo do site - (ex022)
-Capítulo 19 Aula 04 – Configurando a posição da imagem no fundo do site - (ex022)
+ Capítulo 19 Aula 04 – Configurando a posição da imagem no fundo do site - (ex022)
+ Capítulo 19 Aula 05 – Mudando o tamanho da imagem de fundo do site - (ex022)
+ Capítulo 19 Aula 06 – background-attachment e shorthand - (ex022)
+ Capítulo 19 Aula 07 – Centralização vertical de caixas
