@@ -55,3 +55,6 @@
  Capítulo 17 Aula 10 – Melhorando o formato do conteúdo - (ex10 - corrigido)
  Capítulo 17 Aula 11 – Rodapé, conteúdo periférico e links - (ex10 - corrigido)
  Capítulo 17 Aula 12 – Tornando um vídeo responsivo - (ex10 - corrigido)
+ Capítulo 19 Aula 01- Download das imagens do capítulo - (ex022)
+ Capítulo 19 Aula 02 – Colocando uma imagem de fundo no seu site - (ex022)
+ Capítulo 19 Aula 03 – Imagens que se repetem no fundo do site
