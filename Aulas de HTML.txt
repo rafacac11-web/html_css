@@ -62,3 +62,6 @@
  Capítulo 19 Aula 05 – Mudando o tamanho da imagem de fundo do site - (ex022)
  Capítulo 19 Aula 06 – background-attachment e shorthand - (ex022)
  Capítulo 19 Aula 07 – Centralização vertical de caixas
+ Capítulo 20 Aula 01 – Um projeto completo usando HTML e CSS
+ Capítulo 20 Aula 02 – Download e organização dos arquivos
+ 
