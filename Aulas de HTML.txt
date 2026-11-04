@@ -67,5 +67,5 @@
  Capítulo 20 Aula 03 – Ajustes no HTML do projeto - (des - 012)
  Capítulo 20 Aula 04 – Ajustes no CSS do projeto -(des - 012)
  Capítulo 20 Aula 05 – Colocando as fontes ao projeto - (des - 012)
- 
+ Capítulo 20 Aula 06 – Imagens com efeito Parallax simples - (des - 012)
 
