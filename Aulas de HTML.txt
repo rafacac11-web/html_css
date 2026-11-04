@@ -66,4 +66,6 @@
  Capítulo 20 Aula 02 – Download e organização dos arquivos - (des - 012)
  Capítulo 20 Aula 03 – Ajustes no HTML do projeto - (des - 012)
  Capítulo 20 Aula 04 – Ajustes no CSS do projeto -(des - 012)
+ Capítulo 20 Aula 05 – Colocando as fontes ao projeto - (des - 012)
  
+
