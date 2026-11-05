@@ -69,3 +69,5 @@
  Capítulo 20 Aula 05 – Colocando as fontes ao projeto - (des - 012)
  Capítulo 20 Aula 06 – Imagens com efeito Parallax simples - (des - 012)
  Capítulo 20 Aula 07 – Hospedando o Projeto Cordel gratuitamente - (des - 012)
+ Capítulo 21 Aula 01 – Ainda podemos usar tabelas em HTML?
+ Capítulo 21 Aula 02 – Sua primeira tabela em HTML
