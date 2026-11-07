@@ -73,3 +73,5 @@
  Capítulo 21 Aula 02 – Sua primeira tabela em HTML - (ex023)
  Capítulo 21 Aula 03 – Alinhando o conteúdo em tabelas - (ex023)
  Capítulo 21 Aula 04 – Aprendendo a trabalhar com tabelas grandes - (ex023)
+ Capítulo 21 Aula 05 – Caption e Escopo de títulos em tabelas - (ex023)
+ Capítulo 21 Aula 06 – Efeito Zebrado na tabela com HTML e CSS - (ex023)
