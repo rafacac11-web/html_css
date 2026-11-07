@@ -76,3 +76,5 @@
  Capítulo 21 Aula 05 – Caption e Escopo de títulos em tabelas - (ex023)
  Capítulo 21 Aula 06 – Efeito Zebrado na tabela com HTML e CSS - (ex023)
  Capítulo 21 Aula 07 – Cabeçalho fixo em tabelas grandes - (ex023)
+ Capítulo 21 Aula 08 – Mesclagem de células  - (ex023)
+ Capítulo 21 Aula 09 – Desafios (parte 1)
