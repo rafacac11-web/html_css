@@ -88,3 +88,6 @@
  Capítulo 22 Aula 3 – Conteúdo local no iframe - (ex024)
  Capítulo 22 Aula 4 – N - (ex024)
  Capítulo 22 Aula 5 – Conteúdo no iframe por código - (ex024)
+ Capítulo 22 Aula 6 – Inconvenientes do iframe
+ Capítulo 22 Aula 7 – Tornando iframes mais seguros
+ Capítulo 22 Aula 8 – Dicas para iframes melhores
