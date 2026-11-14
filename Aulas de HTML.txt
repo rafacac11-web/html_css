@@ -96,3 +96,4 @@
  Capítulo 23 Aula 2 – Vamos começar o projeto
  Capítulo 23 Aula 4 – Posicionando o conteúdo do site
  Capítulo 23 Aula 5 – Criando os botões para redes sociais
+ Capítulo 23 Aula 6 – Criando as páginas de cada rede social
