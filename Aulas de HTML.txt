@@ -98,3 +98,4 @@
  Capítulo 23 Aula 5 – Criando os botões para redes sociais
  Capítulo 23 Aula 6 – Criando as páginas de cada rede social
  Capítulo 23 Aula 7 – Personalizando as imagens do projeto
+ Capítulo 24 Aula 1 – Como criar formulários com HTML5
